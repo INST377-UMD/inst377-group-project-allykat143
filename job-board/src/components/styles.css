@@ -124,8 +124,8 @@ body {
 }
 
 .img-item img {
-  width: 90%; /* Make the image fill its container */
-  height: 500px;
+  width: 88%; /* Make the image fill its container */
+  height: 550px;
   display: block; /* Ensures no extra space below the image */
   padding: 5px;
   padding-top: 20px;

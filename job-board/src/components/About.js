@@ -2,6 +2,7 @@ import React from 'react';
 import trotzImage from './KTrotz.JPG';
 import clipperImage from './AClipper.jpg'
 import umdImage from './UMD_IMG.png';
+import medinaImage from './Michelle_Headshot.JPG'
 
 const About = () => {
   return (
@@ -20,9 +21,9 @@ const About = () => {
           <p id="about_text">A senior Information Science Major looking to pursue a career in Software Development.</p>
         </div>
         <div class = "img-item">
-          <img src={umdImage} alt="MMedina"/>
+          <img src={medinaImage} alt="MMedina"/>
           <h2><u>Michelle Medina</u></h2>
-          <p id="about_text">A senior Information Science Major looking to pursue a career in Data Science.</p>
+          <p id="about_text">A Senior Information Science major looking to pursue a career in Tech Consulting.</p>
         </div>
         </div>
     </div>
