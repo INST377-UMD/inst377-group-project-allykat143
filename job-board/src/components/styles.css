@@ -112,3 +112,30 @@ body {
   #phone{
     text-align: center;
   }
+  .img-container {
+    display: flex;        /* Enables flexbox */
+    justify-content: center; /* Align items horizontally at the center */
+    align-items: center;   /* Align items vertically at the center */
+}
+  .img-item {
+  width: 33.33%; 
+  padding: 5px; 
+  text-align: center; /* Centers the text below the image */
+}
+
+.img-item img {
+  width: 90%; /* Make the image fill its container */
+  height: 500px;
+  display: block; /* Ensures no extra space below the image */
+  padding: 5px;
+  padding-top: 20px;
+  margin-bottom: 10px; /* Optional: Space between image and text */
+}
+
+#header-text{
+  text-align: center;
+  font-weight: bold;
+}
+#about_text{
+  font-size: 15px;
+}
