@@ -1,8 +1,7 @@
 import React from 'react';
 import trotzImage from './KTrotz.JPG';
-import clipperImage from './AClipper.jpg'
-import umdImage from './UMD_IMG.png';
-import medinaImage from './Michelle_Headshot.JPG'
+import clipperImage from './AClipper.jpg';
+import medinaImage from './Michelle_Headshot.JPG';
 
 const About = () => {
   return (
